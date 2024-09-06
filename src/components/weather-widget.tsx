@@ -10,7 +10,6 @@ import {
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { CloudIcon, MapPinIcon, ThermometerIcon } from "lucide-react"; //import icons from lucide-react
-import { get } from "http";
 
 // Define a TypeScript interface for weather data
 interface Weatherdata {
